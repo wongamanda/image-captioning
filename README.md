@@ -18,8 +18,8 @@ A deep learning model to generate captions for Flickr images
 * There are 5 different captions for the same image
 		
 **Modeling technique**:
-* Base model VGG on the features of photos in the training set
-* RNN or Transformer model - sequencing over natural-language image captions
+* Base model: Keras VGG16
+* Advanced: RNN or Transformer model - sequencing over natural-language image captions
 	
 **Execution stages**:
  1) Prepare data
