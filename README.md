@@ -6,12 +6,12 @@ A deep learning model to generate automatic descriptive captions for Flickr imag
 **Architecture diagram**
 
 The workflow for this project consists of Azure Blob Storage, Azure ML, and Azure Computer Vision API. 
-!["Cloud architecture for Image Captioning"](Media/architecture-diagram.png "Cloud Architecture")
+!["Cloud architecture for Image Captioning"](Media/architecture-diagram.PNG "Cloud Architecture")
 
 **Neural network architecture**
 
 Below is the general architecture for how we will build the deep learning model based on captions and images. We will utilize transfer learning and sequence models to generate captions.
-!["Neural network architecture"](Media/neural-network-architecture.png "Neural Network Architecture")
+!["Neural network architecture"](Media/neural-network-architecture.PNG "Neural Network Architecture")
 	
 ## Project Plan
 **Objectives**:
